@@ -4,4 +4,4 @@
 2,ML_code2seq,code2seq features,Bagging (SVM classifier) + SMOTE,0.5,0.6,0.55
 3,ML_metrics&votes,Code metrics + votes of heuristic detectors (LM1 – LM3),Random Forest + SMOTEENN,0.63,0.63,0.63
 4,ML_metrics,Code metrics,Random Forest + SMOTEEENN,0.63,0.7,0.67
-5,ML_CuBERT,CuBERT features,XGBoost + SMOTEENN,0.65,0.78,0.71
+5,ML_CuBERT,CuBERT features,XGBoost + SMOTEENN,0.7,0.81,0.75
